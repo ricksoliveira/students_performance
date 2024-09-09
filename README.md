@@ -271,11 +271,11 @@ Este DataSet foi retirado do website [UC Irvine Machine Learning Repository](htt
 
 > | Escolaridade do Pai | Média 1º Tri | Média 2º Tri | Média 3º Tri |
 > | ----------------    | ---------    | ---------    | ---------    |
-> | Sem escolaridade    | 12.00000     | 13.00000     | 13.00000     |
-> | Ensino Fundamental  | 9.731707     | 9.390244     | 9.158537     |
-> | Ginásio             | 11.026087    | 10.878261    | 10.260870    |
-> | Colégio             | 10.740000    | 10.750000    | 10.660000    |
-> | Ensino Superior     | 11.927083    | 11.562500    | 11.364583    |
+> | Sem escolaridade    | 12.00        | 13.00        | 13.00        |
+> | Ensino Fundamental  | 9.73         | 9.39         | 9.16         |
+> | Ginásio             | 11.03        | 10.88        | 10.26        |
+> | Colégio             | 10.74        | 10.75        | 10.66        |
+> | Ensino Superior     | 11.93        | 11.56        | 11.36        |
 
 ##### Esta tabela nos mostra que conforme o nível educacional dos pais sobe, a nota média dos alunos aumenta um pouco, porém, há um ponto interessante, vemos que a maior média é justamente obtida por alunos cujo os pais não tem nenhuma escolaridade, por que isso ocorre ?
 
