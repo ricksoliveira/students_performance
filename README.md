@@ -269,13 +269,13 @@ Este DataSet foi retirado do website [UC Irvine Machine Learning Repository](htt
 ##### *Isso explica a diminuição na correlação, porém, com estes dados, não é possível pontuar com exatidão a causa para o fato dos alunos que mais estudam, diminuirem as notas.*
 ##### Analisemos agora as notas com relação ao nivel educacional dos pais. Abaixo uma tabela com a média das notas de Matemática para cada nível de educação do Pai.
 
-> | Escolaridade do Pai | G1        | G2        | G3        |
-> | ----------------    | --------- | --------- | --------- |
-> | Sem escolaridade    | 12.00000  | 13.00000  | 13.00000  |
-> | Ensino Fundamental  | 9.731707  | 9.390244  | 9.158537  |
-> | Ginásio             | 11.026087 | 10.878261 | 10.260870 |
-> | Colégio             | 10.740000 | 10.750000 | 10.660000 |
-> | Ensino Superior     | 11.927083 | 11.562500 | 11.364583 |
+> | Escolaridade do Pai | Média 1º Tri | Média 2º Tri | Média 3º Tri |
+> | ----------------    | ---------    | ---------    | ---------    |
+> | Sem escolaridade    | 12.00000     | 13.00000     | 13.00000     |
+> | Ensino Fundamental  | 9.731707     | 9.390244     | 9.158537     |
+> | Ginásio             | 11.026087    | 10.878261    | 10.260870    |
+> | Colégio             | 10.740000    | 10.750000    | 10.660000    |
+> | Ensino Superior     | 11.927083    | 11.562500    | 11.364583    |
 
 ##### Esta tabela nos mostra que conforme o nível educacional dos pais sobe, a nota média dos alunos aumenta um pouco, porém, há um ponto interessante, vemos que a maior média é justamente obtida por alunos cujo os pais não tem nenhuma escolaridade, por que isso ocorre ?
 
