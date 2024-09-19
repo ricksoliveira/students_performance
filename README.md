@@ -6,6 +6,8 @@ Este DataSet foi retirado do website [UC Irvine Machine Learning Repository](htt
 
 ### Sumário
 
+[1.....................................................Importação dos DataSets.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#1---importação-dos-datasets)
+
 >- 1.....................................................Importação dos DataSets.
 >
 >   - 1.1........................................Definição de Funções.
