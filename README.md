@@ -16,9 +16,9 @@ Este DataSet foi retirado do website [UC Irvine Machine Learning Repository](htt
 >
 >[- 4.....................................................Uma análise exploratória.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#4---uma-análise-exploratória)
 >
->[   - 4.1........................................Algumas análises Univariadas.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#41---algumas-análises-univariadas)
+>    [- 4.1........................................Algumas análises Univariadas.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#41---algumas-análises-univariadas)
 >
->[   - 4.2........................................Algumas análises Bivariadas.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#42---algumas-análises-bivariadas)
+>   [- 4.2........................................Algumas análises Bivariadas.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#42---algumas-análises-bivariadas)
 >
 >[       - 4.2.1...........................Relações de Nota vs Algumas variáveis categóricas.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#421---relações-de-nota-vs-algumas-variáveis-categóricas)
 >
