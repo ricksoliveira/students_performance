@@ -6,31 +6,31 @@ Este DataSet foi retirado do website [UC Irvine Machine Learning Repository](htt
 
 ### Sumário
 
->[- 1.....................................................Importação dos DataSets.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#1---importação-dos-datasets)
+>- 1.....................................................Importação dos DataSets.
 >
 >   - 1.1........................................Definição de Funções.
 >
->[- 2.....................................................Dicionário de Colunas.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#2---dicionário-de-colunas)
+>- 2.....................................................Dicionário de Colunas.
 >
->[- 3.....................................................Preparação dos Dados.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#3---preparação-dos-dados)
+>- 3.....................................................Preparação dos Dados.
 >
->[- 4.....................................................Uma análise exploratória.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#4---uma-análise-exploratória)
+>- 4.....................................................Uma análise exploratória.
 >
->    [- 4.1........................................Algumas análises Univariadas.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#41---algumas-análises-univariadas)
+>   - 4.1........................................Algumas análises Univariadas.
 >
->   [- 4.2........................................Algumas análises Bivariadas.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#42---algumas-análises-bivariadas)
+>   - 4.2........................................Algumas análises Bivariadas.
 >
->[       - 4.2.1...........................Relações de Nota vs Algumas variáveis categóricas.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#421---relações-de-nota-vs-algumas-variáveis-categóricas)
+>       - 4.2.1...........................Relações de Nota vs Algumas variáveis categóricas.
 >
->[       - 4.2.2...........................Correlações das Variáveis numéricas.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#422---correlações-das-variáveis-numéricas)
+>       - 4.2.2...........................Correlações das Variáveis numéricas.
 >
->[       - 4.2.3...........................Comportamento das médias.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#423---comportamento-das-médias)
+>       - 4.2.3...........................Comportamento das médias.
 >
->[- 5.....................................................Considerações finais.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#5---considerações-finais)
+>- 5.....................................................Considerações finais.
 >
->[   - 5.1........................................Conclusões e hipóteses.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#51---conclusões-e-hipóteses)
+>   - 5.1........................................Conclusões e hipóteses.
 >
->[   - 5.2........................................Propostas.](https://github.com/ricksoliveira/students_performance?tab=readme-ov-file#52---propostas)
+>   - 5.2........................................Propostas.
 
 ### Sumário de Imagens
 
